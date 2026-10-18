@@ -1,0 +1,15 @@
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net10.0\UniversityManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net10.0\UniversityManagementSystem.AssemblyInfoInputs.cache
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net10.0\UniversityManagementSystem.AssemblyInfo.cs
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net10.0\UniversityManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net10.0\UniversityManagementSystem.exe
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net10.0\UniversityManagementSystem.deps.json
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net10.0\UniversityManagementSystem.runtimeconfig.json
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net10.0\UniversityManagementSystem.dll
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\bin\Debug\net10.0\UniversityManagementSystem.pdb
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net10.0\UniversityManagementSystem.dll
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net10.0\refint\UniversityManagementSystem.dll
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net10.0\UniversityManagementSystem.pdb
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net10.0\UniversityManagementSystem.genruntimeconfig.cache
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net10.0\ref\UniversityManagementSystem.dll
+C:\Users\anwrh\OneDrive\Desktop\FirstApp\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\net10.0\Universi.4B7915AE.Up2Date
